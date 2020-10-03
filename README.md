@@ -19,5 +19,3 @@ $ yarn generate
 ```
 
 If you have any question yu can connect me [Obka.ir](http://obka.ir).
-
-# nuxtjs-rtl-bootstrap
